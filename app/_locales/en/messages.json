@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "ruvr",
+        "description": "The name of the application"
+    },
+    "appDescription": {
+        "message": "Rutgers Unviersity VR Tests",
+        "description": "The description of the application"
+    }
+}
